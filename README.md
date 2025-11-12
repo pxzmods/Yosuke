@@ -12,3 +12,26 @@ Instale também o git:
 ```
 pkg install git -y
 ```
+de permissão ao termux para acessar o storage:
+```
+termux-setup-storage
+```
+acesse o storage:
+```
+cd /sdcard/
+```
+clone o repositório:
+```
+git clone https://github.com/pxzmods/Yosuke.git
+```
+entre no repositório da bot:
+```
+cd /sdcard/Yosuke
+```
+rode o npm start para ligar a bot:
+```
+npm start
+```
+
+
+# 🎛️ Funcionalidades da yosuke:
