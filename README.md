@@ -34,4 +34,4 @@ npm start
 ```
 
 
-# 🎛️ Funcionalidades da yosuke:
+# ⚠️ Usei a base da nazuna-bot para criar este projeto, apenas refiz comandos, adicionei funções e otimizei.
