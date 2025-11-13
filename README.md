@@ -34,4 +34,4 @@ npm start
 ```
 
 
-# ⚠️ Usei a base da nazuna-bot para criar este projeto, apenas refiz comandos, adicionei funções e otimizei.
+### ⚠️ Usei a base da nazuna-bot para criar este projeto, apenas refiz comandos, adicionei funções e otimizei. Então os créditos vão para o hiudy G.
