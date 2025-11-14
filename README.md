@@ -1,5 +1,7 @@
 # 📚 Yosuke-bot para GRUPOS do whatsapp 
 
+#### Bem-vindo(a) projeto oficial da Yosuke, aqui você ver todas as atualizações do bot✅.
+
 Yosuke-bot para seus grupos do whatsapp e privados, bot com conexão, instabilidade incrível e super otimizado.
 
 instale a Yosuke no termux, baixe na playstore.
