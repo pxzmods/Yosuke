@@ -4,9 +4,12 @@
 
 Yosuke-bot para seus grupos do whatsapp e privados, bot com conexão, instabilidade incrível e super otimizado.
 
-instale a Yosuke no termux, baixe na playstore.
 
-Após baixa o termux, instale o nodejs versão mais recente:
+## Passo a passo para instalação no termux.
+
+Baixe o termux da Playstore, e execute os comandos abaixo.
+
+Instale o nodejs versão mais recente:
 ```
 pkg install nodejs -y
 ```
@@ -14,23 +17,23 @@ Instale também o git:
 ```
 pkg install git -y
 ```
-de permissão ao termux para acessar o storage:
+De permissão ao termux para acessar o storage:
 ```
 termux-setup-storage
 ```
-acesse o storage:
+Acesse o storage:
 ```
 cd /sdcard/
 ```
-clone o repositório:
+Clone o repositório:
 ```
 git clone https://github.com/pxzmods/Yosuke.git
 ```
-entre no repositório da bot:
+Entre na pasta do bot:
 ```
 cd /sdcard/Yosuke
 ```
-rode o npm start para ligar a bot:
+Execute o npm start para ligar a bot:
 ```
 npm start
 ```
